@@ -6,7 +6,7 @@ id: com.blackmagic.ResolveStudio.ioplugin.ffmpeg_encoder_plugin_dvcp_bundle
 branch: '1.0'
 runtime: com.blackmagic.ResolveStudio
 runtime-version: &runtime-version 'master'
-sdk: org.freedesktop.Sdk//24.08
+sdk: org.freedesktop.Sdk//25.08
 build-extension: true
 build-options:
   prefix: /app/IOPlugins/ffmpeg_encoder_plugin.dvcp.bundle
